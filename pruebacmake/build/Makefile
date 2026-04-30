@@ -129,6 +129,54 @@ prba/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/build
 .PHONY : prba/fast
 
+CliArgs.o: CliArgs.cpp.o
+.PHONY : CliArgs.o
+
+# target to build an object file
+CliArgs.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/CliArgs.cpp.o
+.PHONY : CliArgs.cpp.o
+
+CliArgs.i: CliArgs.cpp.i
+.PHONY : CliArgs.i
+
+# target to preprocess a source file
+CliArgs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/CliArgs.cpp.i
+.PHONY : CliArgs.cpp.i
+
+CliArgs.s: CliArgs.cpp.s
+.PHONY : CliArgs.s
+
+# target to generate assembly for a file
+CliArgs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/CliArgs.cpp.s
+.PHONY : CliArgs.cpp.s
+
+StudentFile.o: StudentFile.cpp.o
+.PHONY : StudentFile.o
+
+# target to build an object file
+StudentFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/StudentFile.cpp.o
+.PHONY : StudentFile.cpp.o
+
+StudentFile.i: StudentFile.cpp.i
+.PHONY : StudentFile.i
+
+# target to preprocess a source file
+StudentFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/StudentFile.cpp.i
+.PHONY : StudentFile.cpp.i
+
+StudentFile.s: StudentFile.cpp.s
+.PHONY : StudentFile.s
+
+# target to generate assembly for a file
+StudentFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/StudentFile.cpp.s
+.PHONY : StudentFile.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... prba"
+	@echo "... CliArgs.o"
+	@echo "... CliArgs.i"
+	@echo "... CliArgs.s"
+	@echo "... StudentFile.o"
+	@echo "... StudentFile.i"
+	@echo "... StudentFile.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

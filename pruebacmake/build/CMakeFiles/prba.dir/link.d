@@ -3,6 +3,8 @@ prba: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
   CMakeFiles/prba.dir/main.cpp.o \
+  CMakeFiles/prba.dir/StudentFile.cpp.o \
+  CMakeFiles/prba.dir/CliArgs.cpp.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -39,6 +41,10 @@ prba: \
 /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o:
 
 CMakeFiles/prba.dir/main.cpp.o:
+
+CMakeFiles/prba.dir/StudentFile.cpp.o:
+
+CMakeFiles/prba.dir/CliArgs.cpp.o:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 

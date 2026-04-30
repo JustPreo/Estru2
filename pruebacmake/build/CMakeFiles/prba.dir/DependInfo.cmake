@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/aaron/Documents/c++/Estru2/pruebacmake/CliArgs.cpp" "CMakeFiles/prba.dir/CliArgs.cpp.o" "gcc" "CMakeFiles/prba.dir/CliArgs.cpp.o.d"
+  "/home/aaron/Documents/c++/Estru2/pruebacmake/StudentFile.cpp" "CMakeFiles/prba.dir/StudentFile.cpp.o" "gcc" "CMakeFiles/prba.dir/StudentFile.cpp.o.d"
   "/home/aaron/Documents/c++/Estru2/pruebacmake/main.cpp" "CMakeFiles/prba.dir/main.cpp.o" "gcc" "CMakeFiles/prba.dir/main.cpp.o.d"
   "" "prba" "gcc" "CMakeFiles/prba.dir/link.d"
   )
