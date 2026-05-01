@@ -174,4 +174,25 @@ CMakeFiles/prba.dir/main.cpp.o: \
  /usr/include/c++/15/bits/fstream.tcc \
  /home/aaron/Documents/c++/Estru2/pruebacmake/CliArgs.hpp \
  /usr/include/c++/15/optional \
- /usr/include/c++/15/bits/enable_special_members.h
+ /usr/include/c++/15/bits/enable_special_members.h \
+ /usr/include/c++/15/format /usr/include/c++/15/array \
+ /usr/include/c++/15/charconv /usr/include/c++/15/limits \
+ /usr/include/c++/15/locale \
+ /usr/include/c++/15/bits/locale_facets_nonio.h /usr/include/c++/15/ctime \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/time_members.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/15/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/15/bits/locale_conv.h /usr/include/c++/15/span \
+ /usr/include/c++/15/bits/monostate.h \
+ /usr/include/c++/15/bits/formatfwd.h \
+ /usr/include/c++/15/bits/ranges_algobase.h \
+ /usr/include/c++/15/bits/unicode.h /usr/include/c++/15/cstdint \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+ /usr/include/c++/15/bits/stl_algo.h \
+ /usr/include/c++/15/bits/algorithmfwd.h \
+ /usr/include/c++/15/bits/stl_heap.h \
+ /usr/include/c++/15/bits/uniform_int_dist.h \
+ /usr/include/c++/15/bits/stl_tempbuf.h \
+ /usr/include/c++/15/bits/unicode-data.h
