@@ -167,4 +167,8 @@ CMakeFiles/prba.dir/CliArgs.cpp.o: \
  /usr/include/c++/15/bits/istream.tcc \
  /home/aaron/Documents/c++/Estru2/pruebacmake/CliArgs.hpp \
  /usr/include/c++/15/optional \
- /usr/include/c++/15/bits/enable_special_members.h
+ /usr/include/c++/15/bits/enable_special_members.h \
+ /usr/include/c++/15/fstream /usr/include/c++/15/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
+ /usr/include/c++/15/bits/fstream.tcc

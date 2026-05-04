@@ -20,6 +20,7 @@ CMakeFiles/prba.dir/CliArgs.cpp.o: /home/aaron/Documents/c++/Estru2/pruebacmake/
   /usr/include/c++/15/bits/basic_string.tcc \
   /usr/include/c++/15/bits/char_traits.h \
   /usr/include/c++/15/bits/charconv.h \
+  /usr/include/c++/15/bits/codecvt.h \
   /usr/include/c++/15/bits/concept_check.h \
   /usr/include/c++/15/bits/cpp_type_traits.h \
   /usr/include/c++/15/bits/cxxabi_forced.h \
@@ -28,6 +29,7 @@ CMakeFiles/prba.dir/CliArgs.cpp.o: /home/aaron/Documents/c++/Estru2/pruebacmake/
   /usr/include/c++/15/bits/exception.h \
   /usr/include/c++/15/bits/exception_defines.h \
   /usr/include/c++/15/bits/exception_ptr.h \
+  /usr/include/c++/15/bits/fstream.tcc \
   /usr/include/c++/15/bits/functexcept.h \
   /usr/include/c++/15/bits/functional_hash.h \
   /usr/include/c++/15/bits/hash_bytes.h \
@@ -92,6 +94,7 @@ CMakeFiles/prba.dir/CliArgs.cpp.o: /home/aaron/Documents/c++/Estru2/pruebacmake/
   /usr/include/c++/15/ext/numeric_traits.h \
   /usr/include/c++/15/ext/string_conversions.h \
   /usr/include/c++/15/ext/type_traits.h \
+  /usr/include/c++/15/fstream \
   /usr/include/c++/15/initializer_list \
   /usr/include/c++/15/ios \
   /usr/include/c++/15/iosfwd \
@@ -194,8 +197,10 @@ CMakeFiles/prba.dir/CliArgs.cpp.o: /home/aaron/Documents/c++/Estru2/pruebacmake/
   /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/atomic_word.h \
+  /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/c++allocator.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
+  /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/c++locale.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/cpu_defines.h \
   /usr/include/x86_64-linux-gnu/c++/15/bits/ctype_base.h \
@@ -705,10 +710,6 @@ CMakeFiles/prba.dir/StudentFile.cpp.o:
 
 /usr/lib/x86_64-linux-gnu/libc.so.6:
 
-/usr/include/wchar.h:
-
-/usr/include/c++/15/bits/ios_base.h:
-
 /usr/include/stdio.h:
 
 /usr/include/locale.h:
@@ -821,24 +822,6 @@ CMakeFiles/prba.dir/StudentFile.cpp.o:
 
 /usr/include/x86_64-linux-gnu/c++/15/bits/messages_members.h:
 
-/usr/include/linux/sched/types.h:
-
-/usr/include/c++/15/bits/nested_exception.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
-
-CMakeFiles/prba.dir/main.cpp.o:
-
-/usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
-
-/lib64/ld-linux-x86-64.so.2:
-
-/usr/include/stdc-predef.h:
-
-/usr/include/c++/15/bits/refwrap.h:
-
-/usr/include/c++/15/type_traits:
-
 /usr/include/c++/15/debug/debug.h:
 
 /usr/include/c++/15/bits/charconv.h:
@@ -865,7 +848,17 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/alloca.h:
 
+/usr/include/c++/15/typeinfo:
+
+/usr/include/c++/15/bits/std_abs.h:
+
+/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+
+/usr/include/c++/15/debug/assertions.h:
+
 /usr/include/c++/15/initializer_list:
+
+/usr/include/c++/15/bits/codecvt.h:
 
 /usr/include/asm-generic/errno-base.h:
 
@@ -887,11 +880,15 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/asm-generic/int-ll64.h:
 
-/usr/include/stdlib.h:
-
 /usr/include/c++/15/bits/unicode-data.h:
 
 /usr/include/c++/15/bits/ranges_cmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
+
+/usr/include/c++/15/bits/uses_allocator_args.h:
+
+/usr/include/x86_64-linux-gnu/c++/15/bits/cpu_defines.h:
 
 /usr/include/features.h:
 
@@ -905,9 +902,7 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/c++/15/bits/stl_iterator_base_types.h:
 
-/usr/include/c++/15/bits/ranges_base.h:
-
-/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
+/usr/include/stdc-predef.h:
 
 /usr/include/c++/15/optional:
 
@@ -916,6 +911,22 @@ CMakeFiles/prba.dir/main.cpp.o:
 /usr/include/c++/15/bits/memory_resource.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
+
+/usr/include/c++/15/bits/ranges_base.h:
+
+/usr/include/linux/sched/types.h:
+
+/usr/include/c++/15/bits/nested_exception.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+CMakeFiles/prba.dir/main.cpp.o:
+
+/usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
+
+/lib64/ld-linux-x86-64.so.2:
 
 /usr/include/c++/15/bits/basic_ios.tcc:
 
@@ -947,15 +958,31 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/c++/15/iostream:
 
+/usr/include/c++/15/fstream:
+
+/usr/include/c++/15/bits/ostream.h:
+
 /usr/include/c++/15/bits/cxxabi_init_exception.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o:
 
 /usr/include/c++/15/bits/range_access.h:
 
+/usr/include/c++/15/bits/refwrap.h:
+
+/usr/include/c++/15/type_traits:
+
 /usr/include/c++/15/bits/locale_classes.tcc:
 
+/usr/include/c++/15/bits/memoryfwd.h:
+
+/usr/include/c++/15/bits/fstream.tcc:
+
 /usr/include/c++/15/bits/alloc_traits.h:
+
+/usr/include/c++/15/bits/ios_base.h:
+
+/usr/include/wchar.h:
 
 /usr/include/c++/15/bits/stringfwd.h:
 
@@ -987,10 +1014,6 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
-/usr/include/c++/15/bits/ostream.h:
-
-/usr/include/c++/15/fstream:
-
 /usr/include/c++/15/bits/ostream.tcc:
 
 /usr/include/c++/15/bits/ostream_insert.h:
@@ -1001,13 +1024,7 @@ CMakeFiles/prba.dir/main.cpp.o:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
-/usr/include/c++/15/typeinfo:
-
-/usr/include/c++/15/bits/std_abs.h:
-
-/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
-
-/usr/include/c++/15/debug/assertions.h:
+/usr/include/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
@@ -1085,23 +1102,15 @@ CMakeFiles/prba.dir/CliArgs.cpp.o:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
 
-/usr/include/c++/15/bits/exception.h:
-
 /usr/include/c++/15/ostream:
+
+/usr/include/c++/15/bits/exception.h:
 
 /usr/include/strings.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
-
-/usr/include/c++/15/bits/uses_allocator_args.h:
-
-/usr/include/x86_64-linux-gnu/c++/15/bits/cpu_defines.h:
-
-/usr/include/x86_64-linux-gnu/bits/timesize.h:
-
-/usr/include/c++/15/bits/codecvt.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
@@ -1119,9 +1128,9 @@ CMakeFiles/prba.dir/CliArgs.cpp.o:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-least.h:
 
-/usr/include/asm-generic/types.h:
-
 /usr/include/asm-generic/bitsperlong.h:
+
+/usr/include/asm-generic/types.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
@@ -1155,6 +1164,10 @@ CMakeFiles/prba.dir/CliArgs.cpp.o:
 
 /usr/include/x86_64-linux-gnu/c++/15/bits/atomic_word.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+/usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h:
+
 /usr/include/x86_64-linux-gnu/c++/15/bits/c++allocator.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/include/stddef.h:
@@ -1184,14 +1197,6 @@ CMakeFiles/prba.dir/CliArgs.cpp.o:
 /usr/include/c++/15/bits/unicode.h:
 
 /home/aaron/Documents/c++/Estru2/pruebacmake/StudentRecord.hpp:
-
-/usr/include/c++/15/bits/memoryfwd.h:
-
-/usr/include/c++/15/bits/fstream.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
-
-/usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h:
 
 /home/aaron/Documents/c++/Estru2/pruebacmake/main.cpp:
 
