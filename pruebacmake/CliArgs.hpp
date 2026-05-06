@@ -6,6 +6,8 @@
 enum class CliCommand{
     ListStudents,
     InsertStudent,
+    SearchStudent,
+    RemoveStudent
 };
 
 
@@ -26,11 +28,21 @@ public:
     
     bool isGood() const {return good;}
 
+    std::string getFilePath(){
+        return filepath_;
+    }
+
+    std::optional<int> getStudentId(){
+        return student_id_;
+    }
+
     void printUsage();
 private:
     void parse(int argc, const char* argv[]);
     std::optional<CliCommand> cli_command{};
     std::string program{};
+    std::string filepath_;
+    std::optional<int> student_id_;
     bool good = true;
 
 };

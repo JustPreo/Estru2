@@ -13,8 +13,10 @@ class StudentFile{
             in_out.close();
         }
         bool open();
+        bool writeRecordEOF(const StudentRecord &student_r);
         bool writeRecord(const StudentRecord &student_r);
         bool readRecord(StudentRecord &student_r);
+        void seekTo(std::streampos pos);
 
     private:
         std::string filepath_;
