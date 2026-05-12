@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/CsvSample/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/prba.dir/main.cpp.o -c /home/aaron/Documents/c++/Estru2/CsvSample/main.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/CsvSample/main.cpp",
+  "output": "CMakeFiles/prba.dir/main.cpp.o"
+}
+]

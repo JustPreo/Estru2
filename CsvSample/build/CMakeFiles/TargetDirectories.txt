@@ -1,0 +1,3 @@
+/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles/prba.dir
+/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles/edit_cache.dir
+/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles/rebuild_cache.dir
