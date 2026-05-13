@@ -51,11 +51,14 @@ int main(){
 
         }
         CsvStudentRecord temp;
-        if (lineaVector.size()!=0 && lineaVector.size()==3){
+
+        if (!lineaVector.size()!=0 && !lineaVector.size()==3){
+            std::cerr << "Error" << "\n";        
+        }
+
         temp.id = std::stoi(lineaVector[0]);
         temp.name=lineaVector[1];
         temp.nota = std::stof(lineaVector[2]);
-        }
         estudiantes.push_back(temp);
     }//Fin while
 
