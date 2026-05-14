@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/aaron/Documents/c++/Estru2/CsvSample/Methods.cpp" "CMakeFiles/prba.dir/Methods.cpp.o" "gcc" "CMakeFiles/prba.dir/Methods.cpp.o.d"
   "/home/aaron/Documents/c++/Estru2/CsvSample/main.cpp" "CMakeFiles/prba.dir/main.cpp.o" "gcc" "CMakeFiles/prba.dir/main.cpp.o.d"
   "" "prba" "gcc" "CMakeFiles/prba.dir/link.d"
   )

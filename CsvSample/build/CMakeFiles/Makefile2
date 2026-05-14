@@ -85,12 +85,12 @@ clean: CMakeFiles/prba.dir/clean
 CMakeFiles/prba.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles --progress-num=1,2 "Built target prba"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles --progress-num=1,2,3 "Built target prba"
 .PHONY : CMakeFiles/prba.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/prba.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/prba.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles 0
 .PHONY : CMakeFiles/prba.dir/rule
@@ -102,7 +102,7 @@ prba: CMakeFiles/prba.dir/rule
 # codegen rule for target.
 CMakeFiles/prba.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles --progress-num=1,2 "Finished codegen for target prba"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/aaron/Documents/c++/Estru2/CsvSample/build/CMakeFiles --progress-num=1,2,3 "Finished codegen for target prba"
 .PHONY : CMakeFiles/prba.dir/codegen
 
 # clean rule for target.

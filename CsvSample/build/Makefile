@@ -129,6 +129,30 @@ prba/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/build
 .PHONY : prba/fast
 
+Methods.o: Methods.cpp.o
+.PHONY : Methods.o
+
+# target to build an object file
+Methods.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/Methods.cpp.o
+.PHONY : Methods.cpp.o
+
+Methods.i: Methods.cpp.i
+.PHONY : Methods.i
+
+# target to preprocess a source file
+Methods.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/Methods.cpp.i
+.PHONY : Methods.cpp.i
+
+Methods.s: Methods.cpp.s
+.PHONY : Methods.s
+
+# target to generate assembly for a file
+Methods.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prba.dir/build.make CMakeFiles/prba.dir/Methods.cpp.s
+.PHONY : Methods.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... prba"
+	@echo "... Methods.o"
+	@echo "... Methods.i"
+	@echo "... Methods.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

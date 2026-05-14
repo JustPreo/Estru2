@@ -230,4 +230,10 @@ CMakeFiles/prba.dir/main.cpp.o: \
  /usr/include/c++/15/bits/shared_ptr_atomic.h \
  /usr/include/c++/15/backward/auto_ptr.h \
  /usr/include/c++/15/bits/ranges_uninitialized.h \
- /usr/include/c++/15/pstl/glue_memory_defs.h /usr/include/c++/15/iostream
+ /usr/include/c++/15/pstl/glue_memory_defs.h /usr/include/c++/15/iostream \
+ /home/aaron/Documents/c++/Estru2/CsvSample/Methods.hpp \
+ /home/aaron/Documents/c++/Estru2/CsvSample/StudentRec.hpp \
+ /usr/include/c++/15/fstream /usr/include/c++/15/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
+ /usr/include/c++/15/bits/fstream.tcc
