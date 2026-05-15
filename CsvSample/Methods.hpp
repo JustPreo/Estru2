@@ -3,15 +3,14 @@
 #include <vector>
 #include "StudentRec.hpp"
 #include <fstream>
+#include "csv.h"
 
 class Methods{
     public:
-    Methods(std::string fp) : file_path(fp) {}
+    Methods(){};
     static StudentRec deserialize(const std::vector<char>& buf);
     static std::vector<char> serialize(const StudentRec& rec);
+    void CSVToBinary(std::string file_path);
     ~Methods() {};
-
-    private:
-    std::fstream in_out;
-    std::string file_path;
+    
 };

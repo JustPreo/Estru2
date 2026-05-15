@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"build/_deps/doctest-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "doctest::@de8c2d1415f8a28c2e63",
+	"name" : "doctest",
+	"paths" : 
+	{
+		"build" : "_deps/doctest-build",
+		"source" : "build/_deps/doctest-src"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

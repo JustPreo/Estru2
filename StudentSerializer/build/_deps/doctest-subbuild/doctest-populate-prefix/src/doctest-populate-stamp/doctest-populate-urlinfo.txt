@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/download-doctest-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/verify-doctest-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/extract-doctest-populate.cmake
+source_dir=/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src
+work_dir=/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps
+url(s)=https://github.com/doctest/doctest/archive/refs/tags/v2.4.11.zip
+hash=SHA256=6745e17682d6e2be1ea31ec8bf1814a3d7cb17d61d120e5f2ee5a075926634ad
+      no_extract=
+

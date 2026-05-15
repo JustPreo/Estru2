@@ -1,0 +1,16 @@
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/test_runner.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/test.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/edit_cache.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/rebuild_cache.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/list_install_components.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/install.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/install/local.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/CMakeFiles/install/strip.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/doctest_with_main.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/test.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/edit_cache.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/rebuild_cache.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/list_install_components.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/install.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/install/local.dir
+/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/CMakeFiles/install/strip.dir

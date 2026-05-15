@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aaron/Documents/c++/Estru2/StudentSerializer/build/cmake_install.cmake",
+		"/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/StudentSerializer/build",
+  "command": "/usr/bin/g++  -I/home/aaron/Documents/c++/Estru2/StudentSerializer -I/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src -g -std=gnu++20 -o CMakeFiles/test_runner.dir/test_student_serializer.cpp.o -c /home/aaron/Documents/c++/Estru2/StudentSerializer/test_student_serializer.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/StudentSerializer/test_student_serializer.cpp",
+  "output": "CMakeFiles/test_runner.dir/test_student_serializer.cpp.o"
+},
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/StudentSerializer/build",
+  "command": "/usr/bin/g++  -I/home/aaron/Documents/c++/Estru2/StudentSerializer -I/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src -g -std=gnu++20 -o CMakeFiles/test_runner.dir/student_serializer.cpp.o -c /home/aaron/Documents/c++/Estru2/StudentSerializer/student_serializer.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/StudentSerializer/student_serializer.cpp",
+  "output": "CMakeFiles/test_runner.dir/student_serializer.cpp.o"
+},
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-build",
+  "command": "/usr/bin/g++ -DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN -I/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src -g -std=gnu++11 -o CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.o -c /home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src/doctest/parts/doctest.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/StudentSerializer/build/_deps/doctest-src/doctest/parts/doctest.cpp",
+  "output": "_deps/doctest-build/CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.o"
+}
+]
