@@ -4,7 +4,7 @@
 std::vector<char> Methods::serialize(const StudentRec& sr)
 {
     std::fstream in_out;
-    in_out.open("sample.dat", std::ios::binary | std::ios::out);
+    in_out.open("sample.dat", std::ios::binary | std::ios::out | std::ios::app);
 
     //Serializacion de reistros de tamano variable
 

@@ -9,6 +9,7 @@ int main(){
     //Sample.dat
 
     Methods me;
+    std::vector<StudentRec> totalRecord;
     me.CSVToBinary("students_sample_500.csv");
 
     return 0;
