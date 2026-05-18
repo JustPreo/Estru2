@@ -4,7 +4,7 @@
 
 struct StudentRec
 {
-    uint32_t id;
+    int id;
     std::string name;
     float gpa;
 };
