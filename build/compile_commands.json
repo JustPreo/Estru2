@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/prba.dir/main.cpp.o -c /home/aaron/Documents/c++/Estru2/CsvSample/main.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/CsvSample/main.cpp",
+  "output": "/home/aaron/Documents/c++/Estru2/build/CMakeFiles/prba.dir/main.cpp.o"
+},
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/prba.dir/Methods.cpp.o -c /home/aaron/Documents/c++/Estru2/CsvSample/Methods.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/CsvSample/Methods.cpp",
+  "output": "/home/aaron/Documents/c++/Estru2/build/CMakeFiles/prba.dir/Methods.cpp.o"
+}
+]
