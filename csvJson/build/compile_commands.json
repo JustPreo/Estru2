@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aaron/Documents/c++/Estru2/csvJson/build",
+  "command": "/usr/bin/g++ -I/home/aaron/Documents/c++/Estru2/csvJson/build/_deps/nlohmann_json-src/include -g -std=gnu++20 -o CMakeFiles/prba.dir/main.cpp.o -c /home/aaron/Documents/c++/Estru2/csvJson/main.cpp",
+  "file": "/home/aaron/Documents/c++/Estru2/csvJson/main.cpp",
+  "output": "/home/aaron/Documents/c++/Estru2/csvJson/build/CMakeFiles/prba.dir/main.cpp.o"
+}
+]

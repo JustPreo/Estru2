@@ -1,7 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/aaron/Documents/c++/Estru2/csvJson/build/cmake_install.cmake"
+		"/home/aaron/Documents/c++/Estru2/csvJson/build/cmake_install.cmake",
+		"/home/aaron/Documents/c++/Estru2/csvJson/build/_deps/nlohmann_json-build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

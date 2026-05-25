@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1001,
+    "nombre": "Alice Anderson",
+    "nota": 10.0
+  },
+  {
+    "id": 1002,
+    "nombre": "Alejandro Alvarez",
+    "nota": 13.7
+  },
+  {
+    "id": 1003,
+    "nombre": "Benjamin Dawson",
+    "nota": 17.4
+  },
+  {
+    "id": 1004,
+    "nombre": "Beatriz Flores",
+    "nota": 11.0
+  },
+  {
+    "id": 1005,
+    "nombre": "Charlotte Garrett",
+    "nota": 14.7
+  },
+  {
+    "id": 1006,
+    "nombre": "Carlos Lopez",
+    "nota": 18.4
+  },
+  {
+    "id": 1007,
+    "nombre": "Daniel Johnson",
+    "nota": 12.0
+  },
+  {
+    "id": 1008,
+    "nombre": "Daniela Quispe",
+    "nota": 15.7
+  },
+  {
+    "id": 1009,
+    "nombre": "Emily Mitchell",
+    "nota": 19.4
+  },
+  {
+    "id": 1010,
+    "nombre": "Esteban Vega",
+    "nota": 13.0
+  },
+  {
+    "id": 1011,
+    "nombre": "Frank Parker",
+    "nota": 16.7
+  },
+  {
+    "id": 1012,
+    "nombre": "Fernanda Cruz",
+    "nota": 10.3
+  },
+  {
+    "id": 1013,
+    "nombre": "Grace Stewart",
+    "nota": 14.0
+  },
+  {
+    "id": 1014,
+    "nombre": "Gabriel Alvarez",
+    "nota": 17.7
+  },
+  {
+    "id": 1015,
+    "nombre": "Henry Vance",
+    "nota": 11.3
+  },
+  {
+    "id": 1016,
+    "nombre": "Helena Flores",
+    "nota": 15.0
+  },
+  {
+    "id": 1017,
+    "nombre": "Isabel Young",
+    "nota": 18.7
+  },
+  {
+    "id": 1018,
+    "nombre": "Ivan Lopez",
+    "nota": 12.3
+  },
+  {
+    "id": 1019,
+    "nombre": "Jack Collins",
+    "nota": 16.0
+  },
+  {
+    "id": 1020,
+    "nombre": "Julieta Quispe",
+    "nota": 19.7
+  },
+  {
+    "id": 1021,
+    "nombre": "Katherine Anderson",
+    "nota": 13.3
+  },
+  {
+    "id": 1022,
+    "nombre": "Kevin Vega",
+    "nota": 17.0
+  },
+  {
+    "id": 1023,
+    "nombre": "Liam Dawson",
+    "nota": 10.6
+  },
+  {
+    "id": 1024,
+    "nombre": "Lucia Cruz",
+    "nota": 14.3
+  },
+  {
+    "id": 1025,
+    "nombre": "Megan Garrett",
+    "nota": 18.0
+  },
+  {
+    "id": 1026,
+    "nombre": "Mateo Alvarez",
+    "nota": 11.6
+  },
+  {
+    "id": 1027,
+    "nombre": "Nathan Johnson",
+    "nota": 15.3
+  },
+  {
+    "id": 1028,
+    "nombre": "Natalia Flores",
+    "nota": 19.0
+  },
+  {
+    "id": 1029,
+    "nombre": "Olivia Mitchell",
+    "nota": 12.6
+  },
+  {
+    "id": 1030,
+    "nombre": "Oscar Lopez",
+    "nota": 16.3
+  },
+  {
+    "id": 1031,
+    "nombre": "Peter Parker",
+    "nota": 20.0
+  },
+  {
+    "id": 1032,
+    "nombre": "Paula Quispe",
+    "nota": 13.6
+  },
+  {
+    "id": 1033,
+    "nombre": "Quinn Stewart",
+    "nota": 17.3
+  },
+  {
+    "id": 1034,
+    "nombre": "Ricardo Vega",
+    "nota": 10.9
+  },
+  {
+    "id": 1035,
+    "nombre": "Rachel Vance",
+    "nota": 14.6
+  },
+  {
+    "id": 1036,
+    "nombre": "Sofia Cruz",
+    "nota": 18.3
+  },
+  {
+    "id": 1037,
+    "nombre": "Samuel Young",
+    "nota": 11.9
+  },
+  {
+    "id": 1038,
+    "nombre": "Tomas Alvarez",
+    "nota": 15.6
+  },
+  {
+    "id": 1039,
+    "nombre": "Taylor Collins",
+    "nota": 19.3
+  },
+  {
+    "id": 1040,
+    "nombre": "Valeria Flores",
+    "nota": 12.9
+  },
+  {
+    "id": 1041,
+    "nombre": "Uma Anderson",
+    "nota": 16.6
+  },
+  {
+    "id": 1042,
+    "nombre": "Ximena Lopez",
+    "nota": 10.2
+  },
+  {
+    "id": 1043,
+    "nombre": "Victor Dawson",
+    "nota": 13.9
+  },
+  {
+    "id": 1044,
+    "nombre": "Yadira Quispe",
+    "nota": 17.6
+  },
+  {
+    "id": 1045,
+    "nombre": "Wendy Garrett",
+    "nota": 11.2
+  },
+  {
+    "id": 1046,
+    "nombre": "Zoe Vega",
+    "nota": 14.9
+  },
+  {
+    "id": 1047,
+    "nombre": "Xavier Johnson",
+    "nota": 18.6
+  },
+  {
+    "id": 1048,
+    "nombre": "Jose Cruz",
+    "nota": 12.2
+  },
+  {
+    "id": 1049,
+    "nombre": "Yvonne Mitchell",
+    "nota": 15.9
+  },
+  {
+    "id": 1050,
+    "nombre": "Maria Alvarez",
+    "nota": 19.6
+  },
+  {
+    "id": 1051,
+    "nombre": "Zachary Parker",
+    "nota": 13.2
+  },
+  {
+    "id": 1052,
+    "nombre": "Pablo Flores",
+    "nota": 16.9
+  },
+  {
+    "id": 1053,
+    "nombre": "Amelia Stewart",
+    "nota": 10.5
+  },
+  {
+    "id": 1054,
+    "nombre": "Andrea Lopez",
+    "nota": 14.2
+  },
+  {
+    "id": 1055,
+    "nombre": "Brian Vance",
+    "nota": 17.9
+  },
+  {
+    "id": 1056,
+    "nombre": "Diego Quispe",
+    "nota": 11.5
+  },
+  {
+    "id": 1057,
+    "nombre": "Clara Young",
+    "nota": 15.2
+  },
+  {
+    "id": 1058,
+    "nombre": "Camila Vega",
+    "nota": 18.9
+  },
+  {
+    "id": 1059,
+    "nombre": "Dylan Collins",
+    "nota": 12.5
+  },
+  {
+    "id": 1060,
+    "nombre": "Rafael Cruz",
+    "nota": 16.2
+  },
+  {
+    "id": 1061,
+    "nombre": "Alice Anderson",
+    "nota": 19.9
+  },
+  {
+    "id": 1062,
+    "nombre": "Alejandro Alvarez",
+    "nota": 13.5
+  },
+  {
+    "id": 1063,
+    "nombre": "Benjamin Dawson",
+    "nota": 17.2
+  },
+  {
+    "id": 1064,
+    "nombre": "Beatriz Flores",
+    "nota": 10.8
+  },
+  {
+    "id": 1065,
+    "nombre": "Charlotte Garrett",
+    "nota": 14.5
+  },
+  {
+    "id": 1066,
+    "nombre": "Carlos Lopez",
+    "nota": 18.2
+  },
+  {
+    "id": 1067,
+    "nombre": "Daniel Johnson",
+    "nota": 11.8
+  },
+  {
+    "id": 1068,
+    "nombre": "Daniela Quispe",
+    "nota": 15.5
+  },
+  {
+    "id": 1069,
+    "nombre": "Emily Mitchell",
+    "nota": 19.2
+  },
+  {
+    "id": 1070,
+    "nombre": "Esteban Vega",
+    "nota": 12.8
+  },
+  {
+    "id": 1071,
+    "nombre": "Frank Parker",
+    "nota": 16.5
+  },
+  {
+    "id": 1072,
+    "nombre": "Fernanda Cruz",
+    "nota": 10.1
+  },
+  {
+    "id": 1073,
+    "nombre": "Grace Stewart",
+    "nota": 13.8
+  },
+  {
+    "id": 1074,
+    "nombre": "Gabriel Alvarez",
+    "nota": 17.5
+  },
+  {
+    "id": 1075,
+    "nombre": "Henry Vance",
+    "nota": 11.1
+  },
+  {
+    "id": 1076,
+    "nombre": "Helena Flores",
+    "nota": 14.8
+  },
+  {
+    "id": 1077,
+    "nombre": "Isabel Young",
+    "nota": 18.5
+  },
+  {
+    "id": 1078,
+    "nombre": "Ivan Lopez",
+    "nota": 12.1
+  },
+  {
+    "id": 1079,
+    "nombre": "Jack Collins",
+    "nota": 15.8
+  },
+  {
+    "id": 1080,
+    "nombre": "Julieta Quispe",
+    "nota": 19.5
+  },
+  {
+    "id": 1081,
+    "nombre": "Katherine Anderson",
+    "nota": 13.1
+  },
+  {
+    "id": 1082,
+    "nombre": "Kevin Vega",
+    "nota": 16.8
+  },
+  {
+    "id": 1083,
+    "nombre": "Liam Dawson",
+    "nota": 10.4
+  },
+  {
+    "id": 1084,
+    "nombre": "Lucia Cruz",
+    "nota": 14.1
+  },
+  {
+    "id": 1085,
+    "nombre": "Megan Garrett",
+    "nota": 17.8
+  },
+  {
+    "id": 1086,
+    "nombre": "Mateo Alvarez",
+    "nota": 11.4
+  },
+  {
+    "id": 1087,
+    "nombre": "Nathan Johnson",
+    "nota": 15.1
+  },
+  {
+    "id": 1088,
+    "nombre": "Natalia Flores",
+    "nota": 18.8
+  },
+  {
+    "id": 1089,
+    "nombre": "Olivia Mitchell",
+    "nota": 12.4
+  },
+  {
+    "id": 1090,
+    "nombre": "Oscar Lopez",
+    "nota": 16.1
+  },
+  {
+    "id": 1091,
+    "nombre": "Peter Parker",
+    "nota": 19.8
+  },
+  {
+    "id": 1092,
+    "nombre": "Paula Quispe",
+    "nota": 13.4
+  },
+  {
+    "id": 1093,
+    "nombre": "Quinn Stewart",
+    "nota": 17.1
+  },
+  {
+    "id": 1094,
+    "nombre": "Ricardo Vega",
+    "nota": 10.7
+  },
+  {
+    "id": 1095,
+    "nombre": "Rachel Vance",
+    "nota": 14.4
+  },
+  {
+    "id": 1096,
+    "nombre": "Sofia Cruz",
+    "nota": 18.1
+  },
+  {
+    "id": 1097,
+    "nombre": "Samuel Young",
+    "nota": 11.7
+  },
+  {
+    "id": 1098,
+    "nombre": "Tomas Alvarez",
+    "nota": 15.4
+  },
+  {
+    "id": 1099,
+    "nombre": "Taylor Collins",
+    "nota": 19.1
+  },
+  {
+    "id": 1100,
+    "nombre": "Valeria Flores",
+    "nota": 12.7
+  },
+  {
+    "id": 1101,
+    "nombre": "Uma Anderson",
+    "nota": 16.4
+  },
+  {
+    "id": 1102,
+    "nombre": "Ximena Lopez",
+    "nota": 10.0
+  },
+  {
+    "id": 1103,
+    "nombre": "Victor Dawson",
+    "nota": 13.7
+  },
+  {
+    "id": 1104,
+    "nombre": "Yadira Quispe",
+    "nota": 17.4
+  },
+  {
+    "id": 1105,
+    "nombre": "Wendy Garrett",
+    "nota": 11.0
+  },
+  {
+    "id": 1106,
+    "nombre": "Zoe Vega",
+    "nota": 14.7
+  },
+  {
+    "id": 1107,
+    "nombre": "Xavier Johnson",
+    "nota": 18.4
+  },
+  {
+    "id": 1108,
+    "nombre": "Jose Cruz",
+    "nota": 12.0
+  },
+  {
+    "id": 1109,
+    "nombre": "Yvonne Mitchell",
+    "nota": 15.7
+  },
+  {
+    "id": 1110,
+    "nombre": "Maria Alvarez",
+    "nota": 19.4
+  },
+  {
+    "id": 1111,
+    "nombre": "Zachary Parker",
+    "nota": 13.0
+  },
+  {
+    "id": 1112,
+    "nombre": "Pablo Flores",
+    "nota": 16.7
+  },
+  {
+    "id": 1113,
+    "nombre": "Amelia Stewart",
+    "nota": 10.3
+  },
+  {
+    "id": 1114,
+    "nombre": "Andrea Lopez",
+    "nota": 14.0
+  },
+  {
+    "id": 1115,
+    "nombre": "Brian Vance",
+    "nota": 17.7
+  },
+  {
+    "id": 1116,
+    "nombre": "Diego Quispe",
+    "nota": 11.3
+  },
+  {
+    "id": 1117,
+    "nombre": "Clara Young",
+    "nota": 15.0
+  },
+  {
+    "id": 1118,
+    "nombre": "Camila Vega",
+    "nota": 18.7
+  },
+  {
+    "id": 1119,
+    "nombre": "Dylan Collins",
+    "nota": 12.3
+  },
+  {
+    "id": 1120,
+    "nombre": "Rafael Cruz",
+    "nota": 16.0
+  },
+  {
+    "id": 1121,
+    "nombre": "Alice Anderson",
+    "nota": 19.7
+  },
+  {
+    "id": 1122,
+    "nombre": "Alejandro Alvarez",
+    "nota": 13.3
+  },
+  {
+    "id": 1123,
+    "nombre": "Benjamin Dawson",
+    "nota": 17.0
+  },
+  {
+    "id": 1124,
+    "nombre": "Beatriz Flores",
+    "nota": 10.6
+  },
+  {
+    "id": 1125,
+    "nombre": "Charlotte Garrett",
+    "nota": 14.3
+  },
+  {
+    "id": 1126,
+    "nombre": "Carlos Lopez",
+    "nota": 18.0
+  },
+  {
+    "id": 1127,
+    "nombre": "Daniel Johnson",
+    "nota": 11.6
+  },
+  {
+    "id": 1128,
+    "nombre": "Daniela Quispe",
+    "nota": 15.3
+  },
+  {
+    "id": 1129,
+    "nombre": "Emily Mitchell",
+    "nota": 19.0
+  },
+  {
+    "id": 1130,
+    "nombre": "Esteban Vega",
+    "nota": 12.6
+  },
+  {
+    "id": 1131,
+    "nombre": "Frank Parker",
+    "nota": 16.3
+  },
+  {
+    "id": 1132,
+    "nombre": "Fernanda Cruz",
+    "nota": 20.0
+  },
+  {
+    "id": 1133,
+    "nombre": "Grace Stewart",
+    "nota": 13.6
+  },
+  {
+    "id": 1134,
+    "nombre": "Gabriel Alvarez",
+    "nota": 17.3
+  },
+  {
+    "id": 1135,
+    "nombre": "Henry Vance",
+    "nota": 10.9
+  },
+  {
+    "id": 1136,
+    "nombre": "Helena Flores",
+    "nota": 14.6
+  },
+  {
+    "id": 1137,
+    "nombre": "Isabel Young",
+    "nota": 18.3
+  },
+  {
+    "id": 1138,
+    "nombre": "Ivan Lopez",
+    "nota": 11.9
+  },
+  {
+    "id": 1139,
+    "nombre": "Jack Collins",
+    "nota": 15.6
+  },
+  {
+    "id": 1140,
+    "nombre": "Julieta Quispe",
+    "nota": 19.3
+  },
+  {
+    "id": 1141,
+    "nombre": "Katherine Anderson",
+    "nota": 12.9
+  },
+  {
+    "id": 1142,
+    "nombre": "Kevin Vega",
+    "nota": 16.6
+  },
+  {
+    "id": 1143,
+    "nombre": "Liam Dawson",
+    "nota": 10.2
+  },
+  {
+    "id": 1144,
+    "nombre": "Lucia Cruz",
+    "nota": 13.9
+  },
+  {
+    "id": 1145,
+    "nombre": "Megan Garrett",
+    "nota": 17.6
+  },
+  {
+    "id": 1146,
+    "nombre": "Mateo Alvarez",
+    "nota": 11.2
+  },
+  {
+    "id": 1147,
+    "nombre": "Nathan Johnson",
+    "nota": 14.9
+  },
+  {
+    "id": 1148,
+    "nombre": "Natalia Flores",
+    "nota": 18.6
+  },
+  {
+    "id": 1149,
+    "nombre": "Olivia Mitchell",
+    "nota": 12.2
+  },
+  {
+    "id": 1150,
+    "nombre": "Oscar Lopez",
+    "nota": 15.9
+  },
+  {
+    "id": 1151,
+    "nombre": "Peter Parker",
+    "nota": 19.6
+  },
+  {
+    "id": 1152,
+    "nombre": "Paula Quispe",
+    "nota": 13.2
+  },
+  {
+    "id": 1153,
+    "nombre": "Quinn Stewart",
+    "nota": 16.9
+  },
+  {
+    "id": 1154,
+    "nombre": "Ricardo Vega",
+    "nota": 10.5
+  },
+  {
+    "id": 1155,
+    "nombre": "Rachel Vance",
+    "nota": 14.2
+  },
+  {
+    "id": 1156,
+    "nombre": "Sofia Cruz",
+    "nota": 17.9
+  },
+  {
+    "id": 1157,
+    "nombre": "Samuel Young",
+    "nota": 11.5
+  },
+  {
+    "id": 1158,
+    "nombre": "Tomas Alvarez",
+    "nota": 15.2
+  },
+  {
+    "id": 1159,
+    "nombre": "Taylor Collins",
+    "nota": 18.9
+  },
+  {
+    "id": 1160,
+    "nombre": "Valeria Flores",
+    "nota": 12.5
+  },
+  {
+    "id": 1161,
+    "nombre": "Uma Anderson",
+    "nota": 16.2
+  },
+  {
+    "id": 1162,
+    "nombre": "Ximena Lopez",
+    "nota": 19.9
+  },
+  {
+    "id": 1163,
+    "nombre": "Victor Dawson",
+    "nota": 13.5
+  },
+  {
+    "id": 1164,
+    "nombre": "Yadira Quispe",
+    "nota": 17.2
+  },
+  {
+    "id": 1165,
+    "nombre": "Wendy Garrett",
+    "nota": 10.8
+  },
+  {
+    "id": 1166,
+    "nombre": "Zoe Vega",
+    "nota": 14.5
+  },
+  {
+    "id": 1167,
+    "nombre": "Xavier Johnson",
+    "nota": 18.2
+  },
+  {
+    "id": 1168,
+    "nombre": "Jose Cruz",
+    "nota": 11.8
+  },
+  {
+    "id": 1169,
+    "nombre": "Yvonne Mitchell",
+    "nota": 15.5
+  },
+  {
+    "id": 1170,
+    "nombre": "Maria Alvarez",
+    "nota": 19.2
+  },
+  {
+    "id": 1171,
+    "nombre": "Zachary Parker",
+    "nota": 12.8
+  },
+  {
+    "id": 1172,
+    "nombre": "Pablo Flores",
+    "nota": 16.5
+  },
+  {
+    "id": 1173,
+    "nombre": "Amelia Stewart",
+    "nota": 10.1
+  },
+  {
+    "id": 1174,
+    "nombre": "Andrea Lopez",
+    "nota": 13.8
+  },
+  {
+    "id": 1175,
+    "nombre": "Brian Vance",
+    "nota": 17.5
+  },
+  {
+    "id": 1176,
+    "nombre": "Diego Quispe",
+    "nota": 11.1
+  },
+  {
+    "id": 1177,
+    "nombre": "Clara Young",
+    "nota": 14.8
+  },
+  {
+    "id": 1178,
+    "nombre": "Camila Vega",
+    "nota": 18.5
+  },
+  {
+    "id": 1179,
+    "nombre": "Dylan Collins",
+    "nota": 12.1
+  },
+  {
+    "id": 1180,
+    "nombre": "Rafael Cruz",
+    "nota": 15.8
+  },
+  {
+    "id": 1181,
+    "nombre": "Alice Anderson",
+    "nota": 19.5
+  },
+  {
+    "id": 1182,
+    "nombre": "Alejandro Alvarez",
+    "nota": 13.1
+  },
+  {
+    "id": 1183,
+    "nombre": "Benjamin Dawson",
+    "nota": 16.8
+  },
+  {
+    "id": 1184,
+    "nombre": "Beatriz Flores",
+    "nota": 10.4
+  },
+  {
+    "id": 1185,
+    "nombre": "Charlotte Garrett",
+    "nota": 14.1
+  },
+  {
+    "id": 1186,
+    "nombre": "Carlos Lopez",
+    "nota": 17.8
+  },
+  {
+    "id": 1187,
+    "nombre": "Daniel Johnson",
+    "nota": 11.4
+  },
+  {
+    "id": 1188,
+    "nombre": "Daniela Quispe",
+    "nota": 15.1
+  },
+  {
+    "id": 1189,
+    "nombre": "Emily Mitchell",
+    "nota": 18.8
+  },
+  {
+    "id": 1190,
+    "nombre": "Esteban Vega",
+    "nota": 12.4
+  },
+  {
+    "id": 1191,
+    "nombre": "Frank Parker",
+    "nota": 16.1
+  },
+  {
+    "id": 1192,
+    "nombre": "Fernanda Cruz",
+    "nota": 19.8
+  },
+  {
+    "id": 1193,
+    "nombre": "Grace Stewart",
+    "nota": 13.4
+  },
+  {
+    "id": 1194,
+    "nombre": "Gabriel Alvarez",
+    "nota": 17.1
+  },
+  {
+    "id": 1195,
+    "nombre": "Henry Vance",
+    "nota": 10.7
+  },
+  {
+    "id": 1196,
+    "nombre": "Helena Flores",
+    "nota": 14.4
+  },
+  {
+    "id": 1197,
+    "nombre": "Isabel Young",
+    "nota": 18.1
+  },
+  {
+    "id": 1198,
+    "nombre": "Ivan Lopez",
+    "nota": 11.7
+  },
+  {
+    "id": 1199,
+    "nombre": "Jack Collins",
+    "nota": 15.4
+  },
+  {
+    "id": 1200,
+    "nombre": "Julieta Quispe",
+    "nota": 19.1
+  },
+  {
+    "id": 1201,
+    "nombre": "Katherine Anderson",
+    "nota": 12.7
+  },
+  {
+    "id": 1202,
+    "nombre": "Kevin Vega",
+    "nota": 16.4
+  },
+  {
+    "id": 1203,
+    "nombre": "Liam Dawson",
+    "nota": 10.0
+  },
+  {
+    "id": 1204,
+    "nombre": "Lucia Cruz",
+    "nota": 13.7
+  },
+  {
+    "id": 1205,
+    "nombre": "Megan Garrett",
+    "nota": 17.4
+  },
+  {
+    "id": 1206,
+    "nombre": "Mateo Alvarez",
+    "nota": 11.0
+  },
+  {
+    "id": 1207,
+    "nombre": "Nathan Johnson",
+    "nota": 14.7
+  },
+  {
+    "id": 1208,
+    "nombre": "Natalia Flores",
+    "nota": 18.4
+  },
+  {
+    "id": 1209,
+    "nombre": "Olivia Mitchell",
+    "nota": 12.0
+  },
+  {
+    "id": 1210,
+    "nombre": "Oscar Lopez",
+    "nota": 15.7
+  },
+  {
+    "id": 1211,
+    "nombre": "Peter Parker",
+    "nota": 19.4
+  },
+  {
+    "id": 1212,
+    "nombre": "Paula Quispe",
+    "nota": 13.0
+  },
+  {
+    "id": 1213,
+    "nombre": "Quinn Stewart",
+    "nota": 16.7
+  },
+  {
+    "id": 1214,
+    "nombre": "Ricardo Vega",
+    "nota": 10.3
+  },
+  {
+    "id": 1215,
+    "nombre": "Rachel Vance",
+    "nota": 14.0
+  },
+  {
+    "id": 1216,
+    "nombre": "Sofia Cruz",
+    "nota": 17.7
+  },
+  {
+    "id": 1217,
+    "nombre": "Samuel Young",
+    "nota": 11.3
+  },
+  {
+    "id": 1218,
+    "nombre": "Tomas Alvarez",
+    "nota": 15.0
+  },
+  {
+    "id": 1219,
+    "nombre": "Taylor Collins",
+    "nota": 18.7
+  },
+  {
+    "id": 1220,
+    "nombre": "Valeria Flores",
+    "nota": 12.3
+  },
+  {
+    "id": 1221,
+    "nombre": "Uma Anderson",
+    "nota": 16.0
+  },
+  {
+    "id": 1222,
+    "nombre": "Ximena Lopez",
+    "nota": 19.7
+  },
+  {
+    "id": 1223,
+    "nombre": "Victor Dawson",
+    "nota": 13.3
+  },
+  {
+    "id": 1224,
+    "nombre": "Yadira Quispe",
+    "nota": 17.0
+  },
+  {
+    "id": 1225,
+    "nombre": "Wendy Garrett",
+    "nota": 10.6
+  },
+  {
+    "id": 1226,
+    "nombre": "Zoe Vega",
+    "nota": 14.3
+  },
+  {
+    "id": 1227,
+    "nombre": "Xavier Johnson",
+    "nota": 18.0
+  },
+  {
+    "id": 1228,
+    "nombre": "Jose Cruz",
+    "nota": 11.6
+  },
+  {
+    "id": 1229,
+    "nombre": "Yvonne Mitchell",
+    "nota": 15.3
+  },
+  {
+    "id": 1230,
+    "nombre": "Maria Alvarez",
+    "nota": 19.0
+  },
+  {
+    "id": 1231,
+    "nombre": "Zachary Parker",
+    "nota": 12.6
+  },
+  {
+    "id": 1232,
+    "nombre": "Pablo Flores",
+    "nota": 16.3
+  },
+  {
+    "id": 1233,
+    "nombre": "Amelia Stewart",
+    "nota": 20.0
+  },
+  {
+    "id": 1234,
+    "nombre": "Andrea Lopez",
+    "nota": 13.6
+  },
+  {
+    "id": 1235,
+    "nombre": "Brian Vance",
+    "nota": 17.3
+  },
+  {
+    "id": 1236,
+    "nombre": "Diego Quispe",
+    "nota": 10.9
+  },
+  {
+    "id": 1237,
+    "nombre": "Clara Young",
+    "nota": 14.6
+  },
+  {
+    "id": 1238,
+    "nombre": "Camila Vega",
+    "nota": 18.3
+  },
+  {
+    "id": 1239,
+    "nombre": "Dylan Collins",
+    "nota": 11.9
+  },
+  {
+    "id": 1240,
+    "nombre": "Rafael Cruz",
+    "nota": 15.6
+  },
+  {
+    "id": 1241,
+    "nombre": "Alice Anderson",
+    "nota": 19.3
+  },
+  {
+    "id": 1242,
+    "nombre": "Alejandro Alvarez",
+    "nota": 12.9
+  },
+  {
+    "id": 1243,
+    "nombre": "Benjamin Dawson",
+    "nota": 16.6
+  },
+  {
+    "id": 1244,
+    "nombre": "Beatriz Flores",
+    "nota": 10.2
+  },
+  {
+    "id": 1245,
+    "nombre": "Charlotte Garrett",
+    "nota": 13.9
+  },
+  {
+    "id": 1246,
+    "nombre": "Carlos Lopez",
+    "nota": 17.6
+  },
+  {
+    "id": 1247,
+    "nombre": "Daniel Johnson",
+    "nota": 11.2
+  },
+  {
+    "id": 1248,
+    "nombre": "Daniela Quispe",
+    "nota": 14.9
+  },
+  {
+    "id": 1249,
+    "nombre": "Emily Mitchell",
+    "nota": 18.6
+  },
+  {
+    "id": 1250,
+    "nombre": "Esteban Vega",
+    "nota": 12.2
+  },
+  {
+    "id": 1251,
+    "nombre": "Frank Parker",
+    "nota": 15.9
+  },
+  {
+    "id": 1252,
+    "nombre": "Fernanda Cruz",
+    "nota": 19.6
+  },
+  {
+    "id": 1253,
+    "nombre": "Grace Stewart",
+    "nota": 13.2
+  },
+  {
+    "id": 1254,
+    "nombre": "Gabriel Alvarez",
+    "nota": 16.9
+  },
+  {
+    "id": 1255,
+    "nombre": "Henry Vance",
+    "nota": 10.5
+  },
+  {
+    "id": 1256,
+    "nombre": "Helena Flores",
+    "nota": 14.2
+  },
+  {
+    "id": 1257,
+    "nombre": "Isabel Young",
+    "nota": 17.9
+  },
+  {
+    "id": 1258,
+    "nombre": "Ivan Lopez",
+    "nota": 11.5
+  },
+  {
+    "id": 1259,
+    "nombre": "Jack Collins",
+    "nota": 15.2
+  },
+  {
+    "id": 1260,
+    "nombre": "Julieta Quispe",
+    "nota": 18.9
+  },
+  {
+    "id": 1261,
+    "nombre": "Katherine Anderson",
+    "nota": 12.5
+  },
+  {
+    "id": 1262,
+    "nombre": "Kevin Vega",
+    "nota": 16.2
+  },
+  {
+    "id": 1263,
+    "nombre": "Liam Dawson",
+    "nota": 19.9
+  },
+  {
+    "id": 1264,
+    "nombre": "Lucia Cruz",
+    "nota": 13.5
+  },
+  {
+    "id": 1265,
+    "nombre": "Megan Garrett",
+    "nota": 17.2
+  },
+  {
+    "id": 1266,
+    "nombre": "Mateo Alvarez",
+    "nota": 10.8
+  },
+  {
+    "id": 1267,
+    "nombre": "Nathan Johnson",
+    "nota": 14.5
+  },
+  {
+    "id": 1268,
+    "nombre": "Natalia Flores",
+    "nota": 18.2
+  },
+  {
+    "id": 1269,
+    "nombre": "Olivia Mitchell",
+    "nota": 11.8
+  },
+  {
+    "id": 1270,
+    "nombre": "Oscar Lopez",
+    "nota": 15.5
+  },
+  {
+    "id": 1271,
+    "nombre": "Peter Parker",
+    "nota": 19.2
+  },
+  {
+    "id": 1272,
+    "nombre": "Paula Quispe",
+    "nota": 12.8
+  },
+  {
+    "id": 1273,
+    "nombre": "Quinn Stewart",
+    "nota": 16.5
+  },
+  {
+    "id": 1274,
+    "nombre": "Ricardo Vega",
+    "nota": 10.1
+  },
+  {
+    "id": 1275,
+    "nombre": "Rachel Vance",
+    "nota": 13.8
+  },
+  {
+    "id": 1276,
+    "nombre": "Sofia Cruz",
+    "nota": 17.5
+  },
+  {
+    "id": 1277,
+    "nombre": "Samuel Young",
+    "nota": 11.1
+  },
+  {
+    "id": 1278,
+    "nombre": "Tomas Alvarez",
+    "nota": 14.8
+  },
+  {
+    "id": 1279,
+    "nombre": "Taylor Collins",
+    "nota": 18.5
+  },
+  {
+    "id": 1280,
+    "nombre": "Valeria Flores",
+    "nota": 12.1
+  },
+  {
+    "id": 1281,
+    "nombre": "Uma Anderson",
+    "nota": 15.8
+  },
+  {
+    "id": 1282,
+    "nombre": "Ximena Lopez",
+    "nota": 19.5
+  },
+  {
+    "id": 1283,
+    "nombre": "Victor Dawson",
+    "nota": 13.1
+  },
+  {
+    "id": 1284,
+    "nombre": "Yadira Quispe",
+    "nota": 16.8
+  },
+  {
+    "id": 1285,
+    "nombre": "Wendy Garrett",
+    "nota": 10.4
+  },
+  {
+    "id": 1286,
+    "nombre": "Zoe Vega",
+    "nota": 14.1
+  },
+  {
+    "id": 1287,
+    "nombre": "Xavier Johnson",
+    "nota": 17.8
+  },
+  {
+    "id": 1288,
+    "nombre": "Jose Cruz",
+    "nota": 11.4
+  },
+  {
+    "id": 1289,
+    "nombre": "Yvonne Mitchell",
+    "nota": 15.1
+  },
+  {
+    "id": 1290,
+    "nombre": "Maria Alvarez",
+    "nota": 18.8
+  },
+  {
+    "id": 1291,
+    "nombre": "Zachary Parker",
+    "nota": 12.4
+  },
+  {
+    "id": 1292,
+    "nombre": "Pablo Flores",
+    "nota": 16.1
+  },
+  {
+    "id": 1293,
+    "nombre": "Amelia Stewart",
+    "nota": 19.8
+  },
+  {
+    "id": 1294,
+    "nombre": "Andrea Lopez",
+    "nota": 13.4
+  },
+  {
+    "id": 1295,
+    "nombre": "Brian Vance",
+    "nota": 17.1
+  },
+  {
+    "id": 1296,
+    "nombre": "Diego Quispe",
+    "nota": 10.7
+  },
+  {
+    "id": 1297,
+    "nombre": "Clara Young",
+    "nota": 14.4
+  },
+  {
+    "id": 1298,
+    "nombre": "Camila Vega",
+    "nota": 18.1
+  },
+  {
+    "id": 1299,
+    "nombre": "Dylan Collins",
+    "nota": 11.7
+  },
+  {
+    "id": 1300,
+    "nombre": "Rafael Cruz",
+    "nota": 15.4
+  },
+  {
+    "id": 1301,
+    "nombre": "Alice Anderson",
+    "nota": 19.1
+  },
+  {
+    "id": 1302,
+    "nombre": "Alejandro Alvarez",
+    "nota": 12.7
+  },
+  {
+    "id": 1303,
+    "nombre": "Benjamin Dawson",
+    "nota": 16.4
+  },
+  {
+    "id": 1304,
+    "nombre": "Beatriz Flores",
+    "nota": 10.0
+  },
+  {
+    "id": 1305,
+    "nombre": "Charlotte Garrett",
+    "nota": 13.7
+  },
+  {
+    "id": 1306,
+    "nombre": "Carlos Lopez",
+    "nota": 17.4
+  },
+  {
+    "id": 1307,
+    "nombre": "Daniel Johnson",
+    "nota": 11.0
+  },
+  {
+    "id": 1308,
+    "nombre": "Daniela Quispe",
+    "nota": 14.7
+  },
+  {
+    "id": 1309,
+    "nombre": "Emily Mitchell",
+    "nota": 18.4
+  },
+  {
+    "id": 1310,
+    "nombre": "Esteban Vega",
+    "nota": 12.0
+  },
+  {
+    "id": 1311,
+    "nombre": "Frank Parker",
+    "nota": 15.7
+  },
+  {
+    "id": 1312,
+    "nombre": "Fernanda Cruz",
+    "nota": 19.4
+  },
+  {
+    "id": 1313,
+    "nombre": "Grace Stewart",
+    "nota": 13.0
+  },
+  {
+    "id": 1314,
+    "nombre": "Gabriel Alvarez",
+    "nota": 16.7
+  },
+  {
+    "id": 1315,
+    "nombre": "Henry Vance",
+    "nota": 10.3
+  },
+  {
+    "id": 1316,
+    "nombre": "Helena Flores",
+    "nota": 14.0
+  },
+  {
+    "id": 1317,
+    "nombre": "Isabel Young",
+    "nota": 17.7
+  },
+  {
+    "id": 1318,
+    "nombre": "Ivan Lopez",
+    "nota": 11.3
+  },
+  {
+    "id": 1319,
+    "nombre": "Jack Collins",
+    "nota": 15.0
+  },
+  {
+    "id": 1320,
+    "nombre": "Julieta Quispe",
+    "nota": 18.7
+  },
+  {
+    "id": 1321,
+    "nombre": "Katherine Anderson",
+    "nota": 12.3
+  },
+  {
+    "id": 1322,
+    "nombre": "Kevin Vega",
+    "nota": 16.0
+  },
+  {
+    "id": 1323,
+    "nombre": "Liam Dawson",
+    "nota": 19.7
+  },
+  {
+    "id": 1324,
+    "nombre": "Lucia Cruz",
+    "nota": 13.3
+  },
+  {
+    "id": 1325,
+    "nombre": "Megan Garrett",
+    "nota": 17.0
+  },
+  {
+    "id": 1326,
+    "nombre": "Mateo Alvarez",
+    "nota": 10.6
+  },
+  {
+    "id": 1327,
+    "nombre": "Nathan Johnson",
+    "nota": 14.3
+  },
+  {
+    "id": 1328,
+    "nombre": "Natalia Flores",
+    "nota": 18.0
+  },
+  {
+    "id": 1329,
+    "nombre": "Olivia Mitchell",
+    "nota": 11.6
+  },
+  {
+    "id": 1330,
+    "nombre": "Oscar Lopez",
+    "nota": 15.3
+  },
+  {
+    "id": 1331,
+    "nombre": "Peter Parker",
+    "nota": 19.0
+  },
+  {
+    "id": 1332,
+    "nombre": "Paula Quispe",
+    "nota": 12.6
+  },
+  {
+    "id": 1333,
+    "nombre": "Quinn Stewart",
+    "nota": 16.3
+  },
+  {
+    "id": 1334,
+    "nombre": "Ricardo Vega",
+    "nota": 20.0
+  },
+  {
+    "id": 1335,
+    "nombre": "Rachel Vance",
+    "nota": 13.6
+  },
+  {
+    "id": 1336,
+    "nombre": "Sofia Cruz",
+    "nota": 17.3
+  },
+  {
+    "id": 1337,
+    "nombre": "Samuel Young",
+    "nota": 10.9
+  },
+  {
+    "id": 1338,
+    "nombre": "Tomas Alvarez",
+    "nota": 14.6
+  },
+  {
+    "id": 1339,
+    "nombre": "Taylor Collins",
+    "nota": 18.3
+  },
+  {
+    "id": 1340,
+    "nombre": "Valeria Flores",
+    "nota": 11.9
+  },
+  {
+    "id": 1341,
+    "nombre": "Uma Anderson",
+    "nota": 15.6
+  },
+  {
+    "id": 1342,
+    "nombre": "Ximena Lopez",
+    "nota": 19.3
+  },
+  {
+    "id": 1343,
+    "nombre": "Victor Dawson",
+    "nota": 12.9
+  },
+  {
+    "id": 1344,
+    "nombre": "Yadira Quispe",
+    "nota": 16.6
+  },
+  {
+    "id": 1345,
+    "nombre": "Wendy Garrett",
+    "nota": 10.2
+  },
+  {
+    "id": 1346,
+    "nombre": "Zoe Vega",
+    "nota": 13.9
+  },
+  {
+    "id": 1347,
+    "nombre": "Xavier Johnson",
+    "nota": 17.6
+  },
+  {
+    "id": 1348,
+    "nombre": "Jose Cruz",
+    "nota": 11.2
+  },
+  {
+    "id": 1349,
+    "nombre": "Yvonne Mitchell",
+    "nota": 14.9
+  },
+  {
+    "id": 1350,
+    "nombre": "Maria Alvarez",
+    "nota": 18.6
+  },
+  {
+    "id": 1351,
+    "nombre": "Zachary Parker",
+    "nota": 12.2
+  },
+  {
+    "id": 1352,
+    "nombre": "Pablo Flores",
+    "nota": 15.9
+  },
+  {
+    "id": 1353,
+    "nombre": "Amelia Stewart",
+    "nota": 19.6
+  },
+  {
+    "id": 1354,
+    "nombre": "Andrea Lopez",
+    "nota": 13.2
+  },
+  {
+    "id": 1355,
+    "nombre": "Brian Vance",
+    "nota": 16.9
+  },
+  {
+    "id": 1356,
+    "nombre": "Diego Quispe",
+    "nota": 10.5
+  },
+  {
+    "id": 1357,
+    "nombre": "Clara Young",
+    "nota": 14.2
+  },
+  {
+    "id": 1358,
+    "nombre": "Camila Vega",
+    "nota": 17.9
+  },
+  {
+    "id": 1359,
+    "nombre": "Dylan Collins",
+    "nota": 11.5
+  },
+  {
+    "id": 1360,
+    "nombre": "Rafael Cruz",
+    "nota": 15.2
+  },
+  {
+    "id": 1361,
+    "nombre": "Alice Anderson",
+    "nota": 18.9
+  },
+  {
+    "id": 1362,
+    "nombre": "Alejandro Alvarez",
+    "nota": 12.5
+  },
+  {
+    "id": 1363,
+    "nombre": "Benjamin Dawson",
+    "nota": 16.2
+  },
+  {
+    "id": 1364,
+    "nombre": "Beatriz Flores",
+    "nota": 19.9
+  },
+  {
+    "id": 1365,
+    "nombre": "Charlotte Garrett",
+    "nota": 13.5
+  },
+  {
+    "id": 1366,
+    "nombre": "Carlos Lopez",
+    "nota": 17.2
+  },
+  {
+    "id": 1367,
+    "nombre": "Daniel Johnson",
+    "nota": 10.8
+  },
+  {
+    "id": 1368,
+    "nombre": "Daniela Quispe",
+    "nota": 14.5
+  },
+  {
+    "id": 1369,
+    "nombre": "Emily Mitchell",
+    "nota": 18.2
+  },
+  {
+    "id": 1370,
+    "nombre": "Esteban Vega",
+    "nota": 11.8
+  },
+  {
+    "id": 1371,
+    "nombre": "Frank Parker",
+    "nota": 15.5
+  },
+  {
+    "id": 1372,
+    "nombre": "Fernanda Cruz",
+    "nota": 19.2
+  },
+  {
+    "id": 1373,
+    "nombre": "Grace Stewart",
+    "nota": 12.8
+  },
+  {
+    "id": 1374,
+    "nombre": "Gabriel Alvarez",
+    "nota": 16.5
+  },
+  {
+    "id": 1375,
+    "nombre": "Henry Vance",
+    "nota": 10.1
+  },
+  {
+    "id": 1376,
+    "nombre": "Helena Flores",
+    "nota": 13.8
+  },
+  {
+    "id": 1377,
+    "nombre": "Isabel Young",
+    "nota": 17.5
+  },
+  {
+    "id": 1378,
+    "nombre": "Ivan Lopez",
+    "nota": 11.1
+  },
+  {
+    "id": 1379,
+    "nombre": "Jack Collins",
+    "nota": 14.8
+  },
+  {
+    "id": 1380,
+    "nombre": "Julieta Quispe",
+    "nota": 18.5
+  },
+  {
+    "id": 1381,
+    "nombre": "Katherine Anderson",
+    "nota": 12.1
+  },
+  {
+    "id": 1382,
+    "nombre": "Kevin Vega",
+    "nota": 15.8
+  },
+  {
+    "id": 1383,
+    "nombre": "Liam Dawson",
+    "nota": 19.5
+  },
+  {
+    "id": 1384,
+    "nombre": "Lucia Cruz",
+    "nota": 13.1
+  },
+  {
+    "id": 1385,
+    "nombre": "Megan Garrett",
+    "nota": 16.8
+  },
+  {
+    "id": 1386,
+    "nombre": "Mateo Alvarez",
+    "nota": 10.4
+  },
+  {
+    "id": 1387,
+    "nombre": "Nathan Johnson",
+    "nota": 14.1
+  },
+  {
+    "id": 1388,
+    "nombre": "Natalia Flores",
+    "nota": 17.8
+  },
+  {
+    "id": 1389,
+    "nombre": "Olivia Mitchell",
+    "nota": 11.4
+  },
+  {
+    "id": 1390,
+    "nombre": "Oscar Lopez",
+    "nota": 15.1
+  },
+  {
+    "id": 1391,
+    "nombre": "Peter Parker",
+    "nota": 18.8
+  },
+  {
+    "id": 1392,
+    "nombre": "Paula Quispe",
+    "nota": 12.4
+  },
+  {
+    "id": 1393,
+    "nombre": "Quinn Stewart",
+    "nota": 16.1
+  },
+  {
+    "id": 1394,
+    "nombre": "Ricardo Vega",
+    "nota": 19.8
+  },
+  {
+    "id": 1395,
+    "nombre": "Rachel Vance",
+    "nota": 13.4
+  },
+  {
+    "id": 1396,
+    "nombre": "Sofia Cruz",
+    "nota": 17.1
+  },
+  {
+    "id": 1397,
+    "nombre": "Samuel Young",
+    "nota": 10.7
+  },
+  {
+    "id": 1398,
+    "nombre": "Tomas Alvarez",
+    "nota": 14.4
+  },
+  {
+    "id": 1399,
+    "nombre": "Taylor Collins",
+    "nota": 18.1
+  },
+  {
+    "id": 1400,
+    "nombre": "Valeria Flores",
+    "nota": 11.7
+  },
+  {
+    "id": 1401,
+    "nombre": "Uma Anderson",
+    "nota": 15.4
+  },
+  {
+    "id": 1402,
+    "nombre": "Ximena Lopez",
+    "nota": 19.1
+  },
+  {
+    "id": 1403,
+    "nombre": "Victor Dawson",
+    "nota": 12.7
+  },
+  {
+    "id": 1404,
+    "nombre": "Yadira Quispe",
+    "nota": 16.4
+  },
+  {
+    "id": 1405,
+    "nombre": "Wendy Garrett",
+    "nota": 10.0
+  },
+  {
+    "id": 1406,
+    "nombre": "Zoe Vega",
+    "nota": 13.7
+  },
+  {
+    "id": 1407,
+    "nombre": "Xavier Johnson",
+    "nota": 17.4
+  },
+  {
+    "id": 1408,
+    "nombre": "Jose Cruz",
+    "nota": 11.0
+  },
+  {
+    "id": 1409,
+    "nombre": "Yvonne Mitchell",
+    "nota": 14.7
+  },
+  {
+    "id": 1410,
+    "nombre": "Maria Alvarez",
+    "nota": 18.4
+  },
+  {
+    "id": 1411,
+    "nombre": "Zachary Parker",
+    "nota": 12.0
+  },
+  {
+    "id": 1412,
+    "nombre": "Pablo Flores",
+    "nota": 15.7
+  },
+  {
+    "id": 1413,
+    "nombre": "Amelia Stewart",
+    "nota": 19.4
+  },
+  {
+    "id": 1414,
+    "nombre": "Andrea Lopez",
+    "nota": 13.0
+  },
+  {
+    "id": 1415,
+    "nombre": "Brian Vance",
+    "nota": 16.7
+  },
+  {
+    "id": 1416,
+    "nombre": "Diego Quispe",
+    "nota": 10.3
+  },
+  {
+    "id": 1417,
+    "nombre": "Clara Young",
+    "nota": 14.0
+  },
+  {
+    "id": 1418,
+    "nombre": "Camila Vega",
+    "nota": 17.7
+  },
+  {
+    "id": 1419,
+    "nombre": "Dylan Collins",
+    "nota": 11.3
+  },
+  {
+    "id": 1420,
+    "nombre": "Rafael Cruz",
+    "nota": 15.0
+  },
+  {
+    "id": 1421,
+    "nombre": "Alice Anderson",
+    "nota": 18.7
+  },
+  {
+    "id": 1422,
+    "nombre": "Alejandro Alvarez",
+    "nota": 12.3
+  },
+  {
+    "id": 1423,
+    "nombre": "Benjamin Dawson",
+    "nota": 16.0
+  },
+  {
+    "id": 1424,
+    "nombre": "Beatriz Flores",
+    "nota": 19.7
+  },
+  {
+    "id": 1425,
+    "nombre": "Charlotte Garrett",
+    "nota": 13.3
+  },
+  {
+    "id": 1426,
+    "nombre": "Carlos Lopez",
+    "nota": 17.0
+  },
+  {
+    "id": 1427,
+    "nombre": "Daniel Johnson",
+    "nota": 10.6
+  },
+  {
+    "id": 1428,
+    "nombre": "Daniela Quispe",
+    "nota": 14.3
+  },
+  {
+    "id": 1429,
+    "nombre": "Emily Mitchell",
+    "nota": 18.0
+  },
+  {
+    "id": 1430,
+    "nombre": "Esteban Vega",
+    "nota": 11.6
+  },
+  {
+    "id": 1431,
+    "nombre": "Frank Parker",
+    "nota": 15.3
+  },
+  {
+    "id": 1432,
+    "nombre": "Fernanda Cruz",
+    "nota": 19.0
+  },
+  {
+    "id": 1433,
+    "nombre": "Grace Stewart",
+    "nota": 12.6
+  },
+  {
+    "id": 1434,
+    "nombre": "Gabriel Alvarez",
+    "nota": 16.3
+  },
+  {
+    "id": 1435,
+    "nombre": "Henry Vance",
+    "nota": 20.0
+  },
+  {
+    "id": 1436,
+    "nombre": "Helena Flores",
+    "nota": 13.6
+  },
+  {
+    "id": 1437,
+    "nombre": "Isabel Young",
+    "nota": 17.3
+  },
+  {
+    "id": 1438,
+    "nombre": "Ivan Lopez",
+    "nota": 10.9
+  },
+  {
+    "id": 1439,
+    "nombre": "Jack Collins",
+    "nota": 14.6
+  },
+  {
+    "id": 1440,
+    "nombre": "Julieta Quispe",
+    "nota": 18.3
+  },
+  {
+    "id": 1441,
+    "nombre": "Katherine Anderson",
+    "nota": 11.9
+  },
+  {
+    "id": 1442,
+    "nombre": "Kevin Vega",
+    "nota": 15.6
+  },
+  {
+    "id": 1443,
+    "nombre": "Liam Dawson",
+    "nota": 19.3
+  },
+  {
+    "id": 1444,
+    "nombre": "Lucia Cruz",
+    "nota": 12.9
+  },
+  {
+    "id": 1445,
+    "nombre": "Megan Garrett",
+    "nota": 16.6
+  },
+  {
+    "id": 1446,
+    "nombre": "Mateo Alvarez",
+    "nota": 10.2
+  },
+  {
+    "id": 1447,
+    "nombre": "Nathan Johnson",
+    "nota": 13.9
+  },
+  {
+    "id": 1448,
+    "nombre": "Natalia Flores",
+    "nota": 17.6
+  },
+  {
+    "id": 1449,
+    "nombre": "Olivia Mitchell",
+    "nota": 11.2
+  },
+  {
+    "id": 1450,
+    "nombre": "Oscar Lopez",
+    "nota": 14.9
+  },
+  {
+    "id": 1451,
+    "nombre": "Peter Parker",
+    "nota": 18.6
+  },
+  {
+    "id": 1452,
+    "nombre": "Paula Quispe",
+    "nota": 12.2
+  },
+  {
+    "id": 1453,
+    "nombre": "Quinn Stewart",
+    "nota": 15.9
+  },
+  {
+    "id": 1454,
+    "nombre": "Ricardo Vega",
+    "nota": 19.6
+  },
+  {
+    "id": 1455,
+    "nombre": "Rachel Vance",
+    "nota": 13.2
+  },
+  {
+    "id": 1456,
+    "nombre": "Sofia Cruz",
+    "nota": 16.9
+  },
+  {
+    "id": 1457,
+    "nombre": "Samuel Young",
+    "nota": 10.5
+  },
+  {
+    "id": 1458,
+    "nombre": "Tomas Alvarez",
+    "nota": 14.2
+  },
+  {
+    "id": 1459,
+    "nombre": "Taylor Collins",
+    "nota": 17.9
+  },
+  {
+    "id": 1460,
+    "nombre": "Valeria Flores",
+    "nota": 11.5
+  },
+  {
+    "id": 1461,
+    "nombre": "Uma Anderson",
+    "nota": 15.2
+  },
+  {
+    "id": 1462,
+    "nombre": "Ximena Lopez",
+    "nota": 18.9
+  },
+  {
+    "id": 1463,
+    "nombre": "Victor Dawson",
+    "nota": 12.5
+  },
+  {
+    "id": 1464,
+    "nombre": "Yadira Quispe",
+    "nota": 16.2
+  },
+  {
+    "id": 1465,
+    "nombre": "Wendy Garrett",
+    "nota": 19.9
+  },
+  {
+    "id": 1466,
+    "nombre": "Zoe Vega",
+    "nota": 13.5
+  },
+  {
+    "id": 1467,
+    "nombre": "Xavier Johnson",
+    "nota": 17.2
+  },
+  {
+    "id": 1468,
+    "nombre": "Jose Cruz",
+    "nota": 10.8
+  },
+  {
+    "id": 1469,
+    "nombre": "Yvonne Mitchell",
+    "nota": 14.5
+  },
+  {
+    "id": 1470,
+    "nombre": "Maria Alvarez",
+    "nota": 18.2
+  },
+  {
+    "id": 1471,
+    "nombre": "Zachary Parker",
+    "nota": 11.8
+  },
+  {
+    "id": 1472,
+    "nombre": "Pablo Flores",
+    "nota": 15.5
+  },
+  {
+    "id": 1473,
+    "nombre": "Amelia Stewart",
+    "nota": 19.2
+  },
+  {
+    "id": 1474,
+    "nombre": "Andrea Lopez",
+    "nota": 12.8
+  },
+  {
+    "id": 1475,
+    "nombre": "Brian Vance",
+    "nota": 16.5
+  },
+  {
+    "id": 1476,
+    "nombre": "Diego Quispe",
+    "nota": 10.1
+  },
+  {
+    "id": 1477,
+    "nombre": "Clara Young",
+    "nota": 13.8
+  },
+  {
+    "id": 1478,
+    "nombre": "Camila Vega",
+    "nota": 17.5
+  },
+  {
+    "id": 1479,
+    "nombre": "Dylan Collins",
+    "nota": 11.1
+  },
+  {
+    "id": 1480,
+    "nombre": "Rafael Cruz",
+    "nota": 14.8
+  },
+  {
+    "id": 1481,
+    "nombre": "Alice Anderson",
+    "nota": 18.5
+  },
+  {
+    "id": 1482,
+    "nombre": "Alejandro Alvarez",
+    "nota": 12.1
+  },
+  {
+    "id": 1483,
+    "nombre": "Benjamin Dawson",
+    "nota": 15.8
+  },
+  {
+    "id": 1484,
+    "nombre": "Beatriz Flores",
+    "nota": 19.5
+  },
+  {
+    "id": 1485,
+    "nombre": "Charlotte Garrett",
+    "nota": 13.1
+  },
+  {
+    "id": 1486,
+    "nombre": "Carlos Lopez",
+    "nota": 16.8
+  },
+  {
+    "id": 1487,
+    "nombre": "Daniel Johnson",
+    "nota": 10.4
+  },
+  {
+    "id": 1488,
+    "nombre": "Daniela Quispe",
+    "nota": 14.1
+  },
+  {
+    "id": 1489,
+    "nombre": "Emily Mitchell",
+    "nota": 17.8
+  },
+  {
+    "id": 1490,
+    "nombre": "Esteban Vega",
+    "nota": 11.4
+  },
+  {
+    "id": 1491,
+    "nombre": "Frank Parker",
+    "nota": 15.1
+  },
+  {
+    "id": 1492,
+    "nombre": "Fernanda Cruz",
+    "nota": 18.8
+  },
+  {
+    "id": 1493,
+    "nombre": "Grace Stewart",
+    "nota": 12.4
+  },
+  {
+    "id": 1494,
+    "nombre": "Gabriel Alvarez",
+    "nota": 16.1
+  },
+  {
+    "id": 1495,
+    "nombre": "Henry Vance",
+    "nota": 19.8
+  },
+  {
+    "id": 1496,
+    "nombre": "Helena Flores",
+    "nota": 13.4
+  },
+  {
+    "id": 1497,
+    "nombre": "Isabel Young",
+    "nota": 17.1
+  },
+  {
+    "id": 1498,
+    "nombre": "Ivan Lopez",
+    "nota": 10.7
+  },
+  {
+    "id": 1499,
+    "nombre": "Jack Collins",
+    "nota": 14.4
+  },
+  {
+    "id": 1500,
+    "nombre": "Julieta Quispe",
+    "nota": 18.1
+  }
+]

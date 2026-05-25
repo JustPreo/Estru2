@@ -1,2 +1,5 @@
+/home/aaron/Documents/c++/Estru2/csvJson/build/CMakeFiles/prba.dir
 /home/aaron/Documents/c++/Estru2/csvJson/build/CMakeFiles/edit_cache.dir
 /home/aaron/Documents/c++/Estru2/csvJson/build/CMakeFiles/rebuild_cache.dir
+/home/aaron/Documents/c++/Estru2/csvJson/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/home/aaron/Documents/c++/Estru2/csvJson/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir

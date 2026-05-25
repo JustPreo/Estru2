@@ -1,4 +1,4 @@
-# Install script for directory: /home/aaron/Documents/c++/Estru2/csvJson/nlohmann
+# Install script for directory: /home/aaron/Documents/c++/Estru2/csvJson
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,11 @@ endif()
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/objdump")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/home/aaron/Documents/c++/Estru2/csvJson/build/_deps/nlohmann_json-build/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
